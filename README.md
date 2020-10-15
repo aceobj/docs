@@ -1,4 +1,4 @@
-# The BoostSwap
+# The BoostSwap Exchange
 BoostSwap aims to provide another DeFi platform for crypto-investors.
 
 
